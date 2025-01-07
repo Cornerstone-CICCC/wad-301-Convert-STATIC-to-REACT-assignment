@@ -1,0 +1,45 @@
+# Convert STATIC to REACT assignment
+
+## Objective
+
+You are given a static project that you have to convert to a modern ***React + Vite - Single Page Application***. 
+
+## Get Started 
+
+```bash
+index.html
+```
+
+In the project you will find a `index.html`, you can run it with a live server of your choice. 
+
+__Essentially you are expected to develop a minimum/similar standard similar to this__. However you may improve upon it BUT the following requirements needs to be fulfilled: 
+
+## Requirements for this project. 
+
+* Fix the Navbar, such that, when clicked will redirect to the specific section within the website.
+    * BONUS to have redirect to other urls, ex `/about` or `/work`
+
+* All data should be coming from root Component( App.js) or one single file (like `data.json`)
+
+* ***Response*** to web + mobile + tablet
+
+* You app should be organized into accurate folder structures like `components`, `styles` or modularized components
+
+* You may use any animation or utility libraries that you may seem but, make sure they are not deprecated or are still maintained. 
+
+
+## Notes
+* Get started by setting up the vite project. 
+* ***Plan*** out your app components and structure
+* Start building the components add stitch it together. 
+
+
+
+
+## Submission
+
+* You can work individually, or in pairs. 
+    * Even if you work in pairs, both person needs to push their code to github.
+
+
+You may always take inspiration from the website owner or credit as needed: [Deng Zhihao](http://calvinteng.com/index.php#About) creator  of the website
