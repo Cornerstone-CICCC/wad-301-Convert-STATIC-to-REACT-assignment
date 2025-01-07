@@ -34,12 +34,10 @@ __Essentially you are expected to develop a minimum/similar standard similar to 
 * Start building the components add stitch it together. 
 
 
-
-
 ## Submission
 
 * You can work individually, or in pairs. 
     * Even if you work in pairs, both person needs to push their code to github.
 
 
-You may always take inspiration from the website owner or credit as needed: [Deng Zhihao](http://calvinteng.com/index.php#About) creator  of the website
+You may always take inspiration from the original website owner or credit as required: [Deng Zhihao](http://calvinteng.com/index.php#About)
